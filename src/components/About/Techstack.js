@@ -35,7 +35,7 @@ function Techstack() {
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGithub />
+        <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostgresql />
