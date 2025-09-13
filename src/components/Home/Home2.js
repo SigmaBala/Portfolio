@@ -43,7 +43,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern Python Library and Frameworks
                 </b>
               </i>
               &nbsp; like
