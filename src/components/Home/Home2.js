@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> HTML, Javascript and Python. </b>
+                <b className="purple"> HTML and Python. </b>
               </i>
               <br />
               <br />
@@ -77,7 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/bala-subra-manian-62677a301"
+                  href="https://twitter.com/BalaXD"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/bala-subra-manian-62677a301"
+                  href="https://www.linkedin.com/in/bala-subra-manian"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
