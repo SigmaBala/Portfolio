@@ -45,6 +45,7 @@ function Home2() {
                   {" "}
                   Modern Python Library and Frameworks
                 </b>
+             </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
