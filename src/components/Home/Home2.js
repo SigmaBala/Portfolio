@@ -45,11 +45,6 @@ function Home2() {
                   {" "}
                   Modern Python Library and Frameworks
                 </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
